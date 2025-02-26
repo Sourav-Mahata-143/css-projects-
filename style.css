@@ -1,0 +1,52 @@
+
+h1{
+    background-color: rgb(6, 120, 28);
+    color: rgb(237, 243, 248);
+    margin-left: 570px;
+    margin-right: 570px;
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-shadow: 3px 3px 10px black;
+}
+
+.container{
+    display: flex;
+    background-color: rgb(115, 166, 249);
+    margin: 25px;
+    border-radius: 13px ;
+    box-shadow: 5px 5px 15px black;
+
+ 
+}
+.inp{
+    background-color: rgb(255, 73, 143);
+    text-align: center;
+    margin-left: 680px;
+    margin-bottom: 20px;
+    font-size: 22px;
+    padding: 10px 20px 10px 20px ;
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    box-shadow: 4px 4px 12px rgb(1, 0, 1);
+    color: white;
+
+}
+
+.inp:hover{
+    background-color: rgb(41, 231, 117);
+}
+
+.inp:active{
+    background-color: rgb(5, 12, 8);
+}
+
+.cxx{
+    margin-left: 10px;
+}
+
+h2{
+    background-color: burlywood;
+    margin-right: 1200px;
+    padding-left: 5px;
+}
